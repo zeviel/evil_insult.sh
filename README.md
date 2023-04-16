@@ -3,6 +3,6 @@ Web-API for [evilinsult.com](https://evilinsult.com) an website which offers the
 
 ## Example
 ```bash
-source evil_insult.sh
+source ./evil_insult.sh
 generate_insult
 ```
